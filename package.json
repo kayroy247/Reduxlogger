@@ -1,0 +1,18 @@
+{
+  "name": "@kaysoft/reduxlogger",
+  "version": "1.0.0",
+  "description": "A simple logger middleware for dispatched redux actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux-logger",
+    "redux",
+    "log actions",
+    "react",
+    "log redux"
+  ],
+  "author": "Kayode Okunlade",
+  "license": "ISC"
+}
