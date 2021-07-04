@@ -2,7 +2,7 @@
 
 ## How to Install
 
-`npm install reduxlogger`
+`npm install @kaysoft/reduxlogger`
 
 ## How to use
 
